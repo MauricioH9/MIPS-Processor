@@ -1,0 +1,38 @@
+Vivado Simulator v2023.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot PIPELINE_tb_behav xil_defaultlib.PIPELINE_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 3 for port 'alu_control' [C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/EXECUTE.v:68]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 3 for port 'alu_control' [C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/EXECUTE.v:76]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mux
+Compiling module xil_defaultlib.program_counter
+Compiling module xil_defaultlib.memory
+Compiling module xil_defaultlib.if_id
+Compiling module xil_defaultlib.incr
+Compiling module xil_defaultlib.I_FETCH
+Compiling module xil_defaultlib.control
+Compiling module xil_defaultlib.register
+Compiling module xil_defaultlib.s_extend
+Compiling module xil_defaultlib.id_ex
+Compiling module xil_defaultlib.I_DECODE
+Compiling module xil_defaultlib.ex_mem
+Compiling module xil_defaultlib.adder
+Compiling module xil_defaultlib.mux_5bit
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.alu_control
+Compiling module xil_defaultlib.EXECUTE
+Compiling module xil_defaultlib.d_mem
+Compiling module xil_defaultlib.mem_wb
+Compiling module xil_defaultlib.MEM_STAGE
+Compiling module xil_defaultlib.WB_STAGE
+Compiling module xil_defaultlib.PIPELINE
+Compiling module xil_defaultlib.PIPELINE_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot PIPELINE_tb_behav

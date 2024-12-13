@@ -1,0 +1,46 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/D_Mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module d_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/EXECUTE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXECUTE
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/I_DECODE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module I_DECODE
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/I_FETCH.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module I_FETCH
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/MEMORY.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MEM_STAGE
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/PIPELINE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PIPELINE
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/WRITE_BACK.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module WB_STAGE
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/alu_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/ex_mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ex_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/id_ex.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module id_ex
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/if_id.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module if_id
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/incrementer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module incr
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/mem_wb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mem_wb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/memory_IF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/mux_32bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/mux_5bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_5bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/pc_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module program_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/registers.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sources_1/new/s_extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module s_extend
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mauri/Desktop/ECE/ECE 4300/MIPS_Processor/MIPS_Processor.srcs/sim_1/new/PIPELINE_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PIPELINE_tb
